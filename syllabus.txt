@@ -1,0 +1,36 @@
+## Preliminaries
+
+- RStudio
+- Console vs Scripts vs Notebooks
+- History and Help
+
+## R as a calculator
+
+- Arithmetic
+  - Basic arithmetic
+  - What is a function? Arithmetic functions. Trig, sqrt, log
+  - Vectors
+    - Creation. Colon, rep, seq
+    - Accessing element
+    - Vectorised arithmetic
+- Variables
+  - Why?
+  - Example
+  - How long do they last? Overwriting
+  - Classic x <- y example
+  - Environment viewer
+
+## Datasets
+
+- Built-in datasets
+- Summaries, structure, dimensions
+- Extracting and setting columns
+- Basic plotting (plot, hist, abline)
+- Datasets from other packages
+
+## Matrices
+
+- Creating a matrix
+- Accessing elements, rows, columns
+- Matrix, vector multiplication
+- Inverses, transposes and powers
