@@ -1,6 +1,6 @@
 # R Recap Course
 
-__A short course recapping the basics of R__
+_A short course recapping the basics of R_
 
 ## Resources
 
